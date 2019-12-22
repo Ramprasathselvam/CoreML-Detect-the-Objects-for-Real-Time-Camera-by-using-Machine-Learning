@@ -12,7 +12,7 @@
 		450F84EA23ABE9F2008C761D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 450F84E823ABE9F2008C761D /* Main.storyboard */; };
 		450F84EC23ABE9F6008C761D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 450F84EB23ABE9F6008C761D /* Assets.xcassets */; };
 		450F84EF23ABE9F6008C761D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 450F84ED23ABE9F6008C761D /* LaunchScreen.storyboard */; };
-		452DD7D823AF788F00F25BE7 /* MyFruits 1.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 452DD7D723AF788F00F25BE7 /* MyFruits 1.mlmodel */; };
+		452DD7D823AF788F00F25BE7 /* MyFruits.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 452DD7D723AF788F00F25BE7 /* MyFruits.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,7 +23,7 @@
 		450F84EB23ABE9F6008C761D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		450F84EE23ABE9F6008C761D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		450F84F023ABE9F6008C761D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		452DD7D723AF788F00F25BE7 /* MyFruits 1.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = "MyFruits 1.mlmodel"; sourceTree = "<group>"; };
+		452DD7D723AF788F00F25BE7 /* MyFruits.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = MyFruits.mlmodel; sourceTree = "<group>"; };
 		45AA770123ACDD8500FC24A9 /* ML Sample.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "ML Sample.entitlements"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -60,7 +60,7 @@
 				45AA770123ACDD8500FC24A9 /* ML Sample.entitlements */,
 				450F84E223ABE9F2008C761D /* AppDelegate.swift */,
 				450F84E623ABE9F2008C761D /* ViewController.swift */,
-				452DD7D723AF788F00F25BE7 /* MyFruits 1.mlmodel */,
+				452DD7D723AF788F00F25BE7 /* MyFruits.mlmodel */,
 				450F84E823ABE9F2008C761D /* Main.storyboard */,
 				450F84EB23ABE9F6008C761D /* Assets.xcassets */,
 				450F84ED23ABE9F6008C761D /* LaunchScreen.storyboard */,
@@ -142,7 +142,7 @@
 			files = (
 				450F84E723ABE9F2008C761D /* ViewController.swift in Sources */,
 				450F84E323ABE9F2008C761D /* AppDelegate.swift in Sources */,
-				452DD7D823AF788F00F25BE7 /* MyFruits 1.mlmodel in Sources */,
+				452DD7D823AF788F00F25BE7 /* MyFruits.mlmodel in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
